@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YoungMame
-- 👀 I’m interested in web and back end
-- 🌱 I’m currently learning vue js and node js
+- 🌱 I’m currently learning vue js
 - 📫 How to reach me, on discord young_mame
 
 <!---
