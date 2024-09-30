@@ -2,6 +2,7 @@
 - 42 student
 - Learning C and javascript
 - Working on Division V (FiveM project)
+- Reach me on discord : young_mame
 
 <!---
 YoungMame/YoungMame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
