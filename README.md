@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @YoungMame
-- 🌱 I’m currently learning vue js
-- 📫 How to reach me, on discord young_mame
+- 42 student
+- Learning C and javascript
+- Working on Division V (FiveM project)
 
 <!---
 YoungMame/YoungMame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
