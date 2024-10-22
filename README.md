@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoungMame
-- 42 student
-- Learning C and javascript
+- 42 Le Havre
+- Learning C, lua, javascript
 - Working on Division V (FiveM project)
 - Reach me on discord : young_mame
 
