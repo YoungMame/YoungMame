@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoungMame
 - 42 Le Havre
-- Working on Division V (FiveM project)
+- Working on Division V (startup)
 - Reach me on discord : young_mame
 
 <!---
